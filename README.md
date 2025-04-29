@@ -1,6 +1,6 @@
 # Percolation-Induced PT Symmetry Breaking
 
-This repository contains some visual presenting related to our study of **percolation-induced parity-time (PT) symmetry breaking**, published in *Physical Review Letters*.
+This repository contains some visual presenting related to our study of **percolation-induced parity-time (PT) symmetry breaking**, published in *Physical Review Letters* https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.136602.
 
 We investigate how disorder introduced by **percolation** (random deletion of lattice sites or bonds) fundamentally alters the PT symmetry and non-Hermitian phase transitions in quantum and classical systems.
 
