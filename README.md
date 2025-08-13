@@ -15,3 +15,16 @@ We investigate how disorder introduced by **percolation** (random deletion of la
 In short: **geometry alone** can drive a phase transition.
 
 > This questions the widespread belief that PT breaking is purely a dynamical or spectral instability — the underlying lattice topology plays a nontrivial, sometimes dominant, role.
+
+If you found this interesting, you can consider citing:
+```bibtex
+@article{yang2024percolation,
+  title={Percolation-induced PT symmetry breaking},
+  author={Yang, Mengjie and Lee, Ching Hua},
+  journal={Physical Review Letters},
+  volume={133},
+  number={13},
+  pages={136602},
+  year={2024},
+  publisher={APS}
+}
