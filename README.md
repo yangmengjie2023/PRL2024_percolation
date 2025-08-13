@@ -3,6 +3,19 @@
 This repository contains some visual presentations related to our study of **percolation-induced parity-time (PT) symmetry breaking**, published in *Physical Review Letters* https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.136602.
 
 We investigate how disorder introduced by **percolation** (random deletion of lattice sites or bonds) fundamentally alters the PT symmetry and non-Hermitian phase transitions in quantum and classical systems.
+If you found this interesting, you can consider citing:
+```bibtex
+@article{yang2024percolation,
+  title={Percolation-induced PT symmetry breaking},
+  author={Yang, Mengjie and Lee, Ching Hua},
+  journal={Physical Review Letters},
+  volume={133},
+  number={13},
+  pages={136602},
+  year={2024},
+  publisher={APS}
+}
+
 
 ## Scientific Context
 
@@ -16,15 +29,3 @@ In short: **geometry alone** can drive a phase transition.
 
 > This questions the widespread belief that PT breaking is purely a dynamical or spectral instability — the underlying lattice topology plays a nontrivial, sometimes dominant, role.
 
-If you found this interesting, you can consider citing:
-```bibtex
-@article{yang2024percolation,
-  title={Percolation-induced PT symmetry breaking},
-  author={Yang, Mengjie and Lee, Ching Hua},
-  journal={Physical Review Letters},
-  volume={133},
-  number={13},
-  pages={136602},
-  year={2024},
-  publisher={APS}
-}
