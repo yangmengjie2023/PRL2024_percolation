@@ -16,7 +16,7 @@ If you found this interesting, you can consider citing:
   publisher={APS}
 }
 
-
+  ```
 ## Scientific Context
 
 **PT symmetry** allows certain non-Hermitian Hamiltonians to exhibit entirely real eigenvalue spectra up to a critical point. Traditional studies assume:
